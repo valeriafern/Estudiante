@@ -12,4 +12,7 @@
     <string name="menu_slideshow">Slideshow</string>
     <string name="educatio">EDUCATIO</string>
     <string name="estudiante">Estudiante</string>
+    <string name="perfil">Perfil</string>
+    <string name="solicitar_clase">Solicitar Clase</string>
+    <string name="historial">Historial</string>
 </resources>
