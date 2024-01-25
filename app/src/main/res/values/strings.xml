@@ -7,12 +7,14 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">Perfil</string>
+    <string name="menu_gallery">Solicitar Clase</string>
+    <string name="menu_slideshow">Historial</string>
     <string name="educatio">EDUCATIO</string>
     <string name="estudiante">Estudiante</string>
     <string name="perfil">Perfil</string>
     <string name="solicitar_clase">Solicitar Clase</string>
     <string name="historial">Historial</string>
+    <string name="menu">Menu</string>
+    <string name="configuracion">Configuracion</string>
 </resources>
